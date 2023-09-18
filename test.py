@@ -1,8 +1,8 @@
-print("Hello worldzzz")
+print("Hello world")
 
 print('Commit v2')
 print("This shit is not working!!!")
 
 
-print("Will this shit start working, please?")
+print("It is working?")
       
